@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.OrderService", "MenuApp.OrderService\MenuApp.OrderService.csproj", "{874C18E9-F7F0-423A-8119-963E4EBC38BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.PaymentService", "MenuApp.PaymentService\MenuApp.PaymentService.csproj", "{874C18E9-F7F0-423A-8119-963E4EBC38BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.OrderService.Logic", "MenuApp.OrderService.Logic\MenuApp.OrderService.Logic.csproj", "{6A142FA5-DCD3-4561-B22A-784533E6D096}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.PaymentService.Logic", "MenuApp.PaymentService.Logic\MenuApp.PaymentService.Logic.csproj", "{6A142FA5-DCD3-4561-B22A-784533E6D096}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.OrderService.EntityFramework", "MenuApp.OrderService.EntityFramework\MenuApp.OrderService.EntityFramework.csproj", "{122F72F7-E71F-4FAC-A0D1-752E1F682AEE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MenuApp.PaymentService.EntityFramework", "MenuApp.PaymentService.EntityFramework\MenuApp.PaymentService.EntityFramework.csproj", "{122F72F7-E71F-4FAC-A0D1-752E1F682AEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
